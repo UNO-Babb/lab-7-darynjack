@@ -11,7 +11,7 @@ def main():
   for fib in nums:
     if isEven(fib):
       total = total + fib
-  
+ 
   print(total) # final answer
 
 if __name__ == '__main__':
